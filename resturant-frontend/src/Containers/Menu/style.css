@@ -1,0 +1,29 @@
+.btn3 {
+    color: rgb(0, 0, 0);
+    background-color: #f3c262;
+    border-radius: 23px;
+    border: none;
+    width: 136px;
+    height: 49px;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+    text-align: center;
+    margin-left: 37px;
+    margin-top: 34px;
+    font-weight: 500;
+    margin-bottom: 42px;
+    
+}
+
+.btn3:hover, .btn2:active, .btn2:focus {
+    color: #000000 !important;
+    background: linear-gradient(to right, #F2BD57, #ee9f0d);
+    border-color: #F2BD57 !important;
+    transition: all .3s;
+  }
+
+.mainTopic1{
+    margin-top: 91px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}

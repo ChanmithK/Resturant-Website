@@ -1,0 +1,98 @@
+*,*:hover,*.active{
+    outline: none;
+  }
+
+.Topic{
+    padding-top: 278px;
+    width: 642px;
+    font-size: 56px;
+}
+
+.subTopic{
+    width: 673px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.heroImage{
+    padding-top: 51px;
+    padding-right: 100px;
+    width: 638px;
+}
+
+.sideFoods{
+    padding-left: 442px;
+    margin-top: -335px;
+}
+
+.TopicContainer{
+    padding-left: 97px;
+    margin-top: -114px;
+}
+
+.ImageContainer{
+    margin-top: -45px;
+}
+
+.mainButton{
+    width: 160px;
+    border: 0;
+    padding: 12px 10px;
+    outline: none;
+    color: #fff ;
+    background: linear-gradient(to right, #F2BD57, #ee9f0d);
+    border-radius: 23px;
+    cursor: pointer;
+    transition: width 0.5s;
+    margin: 19px 0px;
+}
+
+.mainButton img{
+    width: 30px;
+    display: none;
+}
+
+.mainButton:hover img{
+    display: block;
+}
+
+.mainButton:hover{
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 27px 0px;
+}
+
+.btn1 {
+    color: rgb(0, 0, 0);
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 23px;
+    width: 127px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    text-align: start;
+    
+}
+
+.btn1:hover, .btn1:active, .btn1:focus {
+    color: #000000 !important;
+    background: linear-gradient(to right, #F2BD57, #ee9f0d);
+    border-color: #F2BD57 !important;
+    transition: all .3s;
+  }
+
+.sideFoods > ul > li {
+    margin: 8px;
+    list-style-type: none;
+}
+
+.Container{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top:89px;
+}
+
+.Row{
+    margin-bottom: 221px;
+}

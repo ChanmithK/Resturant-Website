@@ -1,0 +1,60 @@
+.BannerLayer{
+    width: 100%;
+    height: 515px;
+    left: 97px;
+    background: #FFF7EA;
+    margin-top: 121px;
+    border-radius: 67px;
+}
+
+.BannerTopic{
+    width: 578px;
+    margin: 87px 57px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45.0709px;
+    line-height: 68px;
+    color: #000000;
+}
+
+.buriyaniImage{
+    margin-top: 41.38px;
+    padding-left: 103px;
+    width: 562px;
+    margin-left: -77px;
+}
+
+.BannerSubTopic{
+    width: 578px;
+    height: 35px;
+    margin-left: 57px;
+    margin-top: -75px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15.1852px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.btn2 {
+    color: rgb(0, 0, 0);
+    background-color: #f3c262;
+    border-radius: 23px;
+    border: none;
+    width: 175px;
+    height: 49px;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+    text-align: center;
+    margin-left: 57px;
+    margin-top: 29px;
+    font-weight: 500;
+    
+}
+
+.btn2:hover, .btn2:active, .btn2:focus {
+    color: #000000 !important;
+    background: linear-gradient(to right, #F2BD57, #ee9f0d);
+    border-color: #F2BD57 !important;
+    transition: all .3s;
+  }

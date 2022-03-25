@@ -1,0 +1,20 @@
+.mainTopic{
+    margin-bottom: 46px;
+}
+
+.itemBox{
+    width: auto;
+    height: auto;
+    background-color: white;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 18.5028px;
+}
+
+.itemName{
+    text-align: center;
+    margin: 0 5px;
+}
+
+.itemImage{
+    text-align: center;
+}
